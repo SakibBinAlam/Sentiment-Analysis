@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis
+# Sentiment-Analysis
 
 This project classifies a set of tweets into two categories:racist/sexist and non-recist. 
 Here I implemented several feature techniques and algorithms for modeling. 
