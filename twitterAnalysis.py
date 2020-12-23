@@ -43,6 +43,7 @@ length_test = test['tweet'].str.len()
 combi = train.append(test, ignore_index=True) 
 combi.shape
 
+
 #remove unwanted text patterns from the tweets
 def remove_pattern(input_txt, pattern):
 	r = re.findall(pattern, input_txt)
