@@ -215,7 +215,7 @@ wordvec_df.shape
 
 
 # Now we have 200 new features, whereas in Bag of Words and TF-IDF we had 1000 features.
-""""
+
 # ***Doc2Vec Embedding***
 
 # generate vectors for sentence/paragraphs/documents
@@ -253,7 +253,7 @@ for i in range(len(combi)):
     docvec_arrays[i,:] = model_d2v.docvecs[i].reshape((1,200))    
 
 docvec_df = pd.DataFrame(docvec_arrays) 
-docvec_df.shape """
+docvec_df.shape
 
 # *** Modeling ***
 
