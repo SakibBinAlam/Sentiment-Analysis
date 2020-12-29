@@ -1,17 +1,17 @@
 # Sentiment-Analysis
 
-This project classifies a set of tweets into two categories:racist/sexist and non-recist. 
-Here I implemented several feature techniques and algorithms for modeling. 
-After analyzing their performances finally selected the optimal techniques. Python was used to build this project.
+This project classifies a set of tweets into two categories:racist and non-recist. 
+Here I implemented several feature extraction techniques and machine learning algorithms to build models. 
+Performance of different methods were analyzed and compared. Python was used to build this project.
 
-### Features ###
+## Feature Extraction Techniques ##
 
   (1) Bag-of-Words
   (2) TF-IDF
   (3) Word2Vec
   (4) Doc2Vec
 
-### Algorithms ###
+## Algorithms ##
 
   (1) Logistics Regression
   (2) SVM
