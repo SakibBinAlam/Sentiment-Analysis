@@ -2,7 +2,7 @@
 
 This project classifies a set of tweets into two categories:racist and non-recist. 
 Here I implemented several feature extraction techniques and machine learning algorithms to build models. 
-Performance of different methods were analyzed and compared. XGBoost with Word2Vec model has given us the best performance so far.
+Performance of different methods were analyzed and compared. XGBoost with Word2Vec model has given the best performance so far.
 
 ## Feature Extraction Techniques ##
 
